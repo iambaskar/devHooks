@@ -1,0 +1,35 @@
+{
+  "name": "devhooks",
+  "version": "1.0.0",
+  "description": "DevHooks is a comprehensive library of custom React hooks designed to simplify and accelerate development by solving common challenges in state management, UI interactions, and performance optimization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iambaskar/devHooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "custom-hooks",
+    "react-hooks",
+    "customized-hooks"
+  ],
+  "author": "ponbaskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iambaskar/devHooks/issues"
+  },
+  "homepage": "https://github.com/iambaskar/devHooks#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.7",
+    "@types/react-dom": "^19.0.3",
+    "typescript": "^5.7.3"
+  }
+}
